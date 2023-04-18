@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div className="footer">
-            <table align='left' cellSpacing={"21px"} style={{ width: '95%' }} className='footer_table_container'>
+            <table cellSpacing={"21px"} style={{ width: '95%' }} className='footer_table_container'>
                 <tr className='footer_table_header'>
                     <th style={{ fontWeight: '900' }} >Company Info</th>
                     <th>Legal</th>
